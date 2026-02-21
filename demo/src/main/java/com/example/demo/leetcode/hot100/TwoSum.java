@@ -29,6 +29,9 @@ public class TwoSum {
         return new int[0];
     }
 
+
+    //let go
+    //gogogogoo
     public static void main(String[] args) {
         TwoSum solver = new TwoSum();
         int[] nums = {2, 7, 11, 15};
