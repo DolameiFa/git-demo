@@ -48,7 +48,7 @@ public class GetIntersectionNode {
 
         // 执行算法
         ListNode result = getIntersectionNode(headA, headB);
-
+        //新增
         // 输出结果
         if (result != null) {
             System.out.println("实际相交节点值: " + result.val);
